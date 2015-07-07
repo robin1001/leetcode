@@ -1,0 +1,5 @@
+* personal leetcode solution note
+
+1. LRU: store ptr in hash(no count, list deque both are slow)
+2. Majority Elements: Moore voting 
+
